@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\bin\Debug\net6.0\HOMEWORK_4.exe
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\bin\Debug\net6.0\HOMEWORK_4.deps.json
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\bin\Debug\net6.0\HOMEWORK_4.runtimeconfig.json
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\bin\Debug\net6.0\HOMEWORK_4.dll
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\bin\Debug\net6.0\HOMEWORK_4.pdb
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.AssemblyInfo.cs
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.dll
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\refint\HOMEWORK_4.dll
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.pdb
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\HOMEWORK_4.genruntimeconfig.cache
+D:\USERDATA\Desktop\c#_Lesson4\HOMEWORK_4\obj\Debug\net6.0\ref\HOMEWORK_4.dll
